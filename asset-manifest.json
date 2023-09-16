@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Rudnenko.Dmytro/app-notes/static/css/main.13bc048f.css",
-    "main.js": "/Rudnenko.Dmytro/app-notes/static/js/main.0f937b6f.js",
-    "index.html": "/Rudnenko.Dmytro/app-notes/index.html",
-    "main.13bc048f.css.map": "/Rudnenko.Dmytro/app-notes/static/css/main.13bc048f.css.map",
-    "main.0f937b6f.js.map": "/Rudnenko.Dmytro/app-notes/static/js/main.0f937b6f.js.map"
+    "main.css": "/Rudnenko.Dmytro-app-notes/static/css/main.13bc048f.css",
+    "main.js": "/Rudnenko.Dmytro-app-notes/static/js/main.0f937b6f.js",
+    "index.html": "/Rudnenko.Dmytro-app-notes/index.html",
+    "main.13bc048f.css.map": "/Rudnenko.Dmytro-app-notes/static/css/main.13bc048f.css.map",
+    "main.0f937b6f.js.map": "/Rudnenko.Dmytro-app-notes/static/js/main.0f937b6f.js.map"
   },
   "entrypoints": [
     "static/css/main.13bc048f.css",
